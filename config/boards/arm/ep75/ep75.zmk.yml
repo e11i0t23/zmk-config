@@ -1,0 +1,11 @@
+file_format: "1"
+id: ep75
+name: ep75
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+  - ble
+url: https://epkb.design/ep75
